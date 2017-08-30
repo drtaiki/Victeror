@@ -1,2 +1,2 @@
 # Victeror
-A brand new (Discord)[https://discordapp.com] bot.
+A brand new [Discord](https://discordapp.com) bot.
